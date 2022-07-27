@@ -23,30 +23,30 @@
 
 ### Description
 
-- What your application does,
-- Why you used the technologies you used,
-- Some of the challenges you faced and features you hope to implement in the future.
+- *What your application does,*
+- *Why you used the technologies you used,*
+- *Some of the challenges you faced and features you hope to implement in the future.*
 
 ### How to Install & Run
 
-- Provide a step-by-step description of how to get the development environment set and running.
+*Provide a step-by-step description of how to get the development environment set and running.*
 
 ### How to Use
 
-- Provide instructions and examples so users/contributors can use the project.
+*Provide instructions and examples so users/contributors can use the project.*
 
 ### Credits
 
-- If you followed tutorials or referenced a certain material that might help the user to build this particular project, include links to those here.
+*If you followed tutorials or referenced a certain material that might help the user to build this particular project, include links to those here.*
 
 ### Licensing
 
-- Point out your software license. In case this is something different than an MIT license, explain why.
+*Point out your software license. In case this is something different than an MIT license, explain why.*
 
 ### How to Contribute
 
-- Add guidelines to let other developers know how they can contribute to your project.
+*Add guidelines to let other developers know how they can contribute to your project.*
 
 ### Testing
 
-- Provide code examples and how to run tests for your project.
+*Provide code examples and how to run tests for your project.*
