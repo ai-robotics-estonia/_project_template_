@@ -43,6 +43,8 @@
 
 *Point out your software license. In case this is something different than an MIT license, explain why.*
 
+[MIT License](/LICENSE)
+
 ### How to Contribute
 
 *Add guidelines to let other developers know how they can contribute to your project.*
