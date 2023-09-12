@@ -21,6 +21,12 @@
 
 *This section is to be filled out by the development team. You should describe details about the technical implementation right here. To get started, you can use [this guide](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) from freeCodeCamp for inspiration. Please note that some of the sections are already included below but you can add more.*
 
+### Each project has an alternative:
+*a)To fill in the description below
+OR
+*b)DOCKER
+*c)or a cutom agreement with the AIRE team
+
 ### Description
 
 - *What your application does,*
