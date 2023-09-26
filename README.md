@@ -19,7 +19,7 @@
 
 # Each project has an alternative:
 
-- *a)To fill in the description [below](#implementation-details)*
+- *a)To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
 *OR*
 - *b)DOCKER*
 - *c)or a cutom agreement with the AIRE team*
