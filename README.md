@@ -68,6 +68,10 @@ Learn more about Docker and its capabilities by referring to the [official Docke
 
 *Provide code examples and how to run tests for your project.*
 
-## CUSTOM AGREEMENT WITH THE AIRE TEAM
+## Custom agreement with the AIRE team
+
+*If you have a unique project or specific requirements that don't fit neatly into the Docker file or description template options, we welcome custom agreements with our AIRE team. This option allows for flexibility in collaborating with us to ensure your project's needs are met effectively.*
+
+*To explore this option, please contact our demonstration projects service manager via katre.eljas@taltech.ee with the subject line "Demonstration Project Custom Agreement Request - [Your Project Name]." In your email, briefly describe your project and your specific documentation or collaboration needs. Our team will promptly respond to initiate a conversation about tailoring a solution that aligns with your project goals.*
 
 
