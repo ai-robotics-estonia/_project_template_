@@ -19,11 +19,17 @@
 
 # Each project has an alternative:
 
-- *a)To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
+- *a) Provide a [DOCKER](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#docker) file*
+- *b)To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
 *OR*
-- *b)DOCKER*
 - *c)or a cutom agreement with the AIRE team*
 
+## DOCKER
+Please provide your DOCKERfile here.
+
+### Docker Resources
+
+Learn more about Docker and its capabilities by referring to the [official Docker documentation](https://docs.docker.com/). 
   
 ## Implementation Details
 
@@ -61,3 +67,7 @@
 ### Testing
 
 *Provide code examples and how to run tests for your project.*
+
+## CUSTOM AGREEMENT WITH THE AIRE TEAM
+
+
