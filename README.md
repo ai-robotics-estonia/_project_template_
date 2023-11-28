@@ -22,29 +22,29 @@
 
 ## Activities and results of demonstration project
 *Challenge addressed (i.e. whetehr and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
-- 
+-  *a)*
 
 *Data sources (which data was used for the technological solution)*
-- 
+-  *a)*
 
 *Description and justifictaion of used AI technology*
-- 
+-  *a)*
 
 *Results of testing and validating technological solution*
-- 
+-  *a)*
 
 *Technical architecture (presented graphically, where can also be seen how the technical solution integrates with the existing system)*
-- 
+-  *a)*
 
 *Potential areas of use of technical solution*
-- 
+-  *a)*
 
 *Lessons learned (i.e. assessment whether the technological solution actually solved the initial challenge)*
-- 
+-  *a)*
 
 ### Description of User Interface 
 *(i.e. How does the client 'see' the technical result, whether a separate user interface was developed, command line script was developed, was it validated as an experiment, can the results be seen in ERP or are they integrated into work process)*
-- 
+-  *a)*
 
 
 ## Custom agreement with the AIRE team
