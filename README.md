@@ -10,19 +10,35 @@
 | Development Team Lead Name | [First name, Surname](https://profile.link) |
 | Development Team Lead e-mail | [Team Member 1](https://profile.link) |
 | Objectives of the Demonstration Project |  |
-| Technology Used |  |
-| Lessons Learned |  |
-| Result Published |  |
-| Target Group |  |
-| Diagrams/Photos |  |
-| Video |  |
 
 # Each project has an alternative:
 
-- *a) Provide a [DOCKER](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#docker) file*
-- *b)To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
+- *a) To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
 *OR*
-- *c)or a cutom agreement with the AIRE team*
+- *b)Provide a [DOCKER](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#docker) file*
+*OR*
+- *c) a cutom agreement with the AIRE team*
+
+## Objectives of the Demonstration Project
+*Please provide your objectives here.*
+
+## Activities and results of demonstration project
+*Challenge addressed (i.e. whetehr and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
+
+*Data sources (which data was used for the technological solution)*
+
+*Description and justifictaion of used AI technology*
+
+*Results of testing and validating technological solution*
+
+*Technical architecture (presented graphically, where can also be seen how the technical solution integrates with the existing system)*
+
+*Potential areas of use of technical solution*
+
+*Lessons learned (i.e. assessment whether the technological solution actually solved the initial challenge)*
+
+### Description of User Interface 
+*(i.e. How does the client 'see' the technical result, whether a separate user interface was developed, command line script was developed, was it validated as an experiment, can the results be seen in ERP or are they integrated into work process)*
 
 ## DOCKER
 Please provide your DOCKERfile here.
@@ -30,43 +46,6 @@ Please provide your DOCKERfile here.
 ### Docker Resources
 
 Learn more about Docker and its capabilities by referring to the [official Docker documentation](https://docs.docker.com/). 
-  
-## Implementation Details
-
-*This section is to be filled out by the development team. You should describe details about the technical implementation right here. To get started, you can use [this guide](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) from freeCodeCamp for inspiration. Please note that some of the sections are already included below but you can add more.*
-
-
-### Description
-
-- *What your application does,*
-- *Why you used the technologies you used,*
-- *Some of the challenges you faced and features you hope to implement in the future.*
-
-### How to Install & Run
-
-*Provide a step-by-step description of how to get the development environment set and running.*
-
-### How to Use
-
-*Provide instructions and examples so users/contributors can use the project.*
-
-### Credits
-
-*If you followed tutorials or referenced a certain material that might help the user to build this particular project, include links to those here.*
-
-### Licensing
-
-*Point out your software license. In case this is something different than an MIT license, explain why.*
-
-[MIT License](/LICENSE)
-
-### How to Contribute
-
-*Add guidelines to let other developers know how they can contribute to your project.*
-
-### Testing
-
-*Provide code examples and how to run tests for your project.*
 
 ## Custom agreement with the AIRE team
 
