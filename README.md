@@ -15,8 +15,6 @@
 
 - *a) To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
 *OR*
-- *b)Provide a [DOCKER](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#docker) file*
-*OR*
 - *c) a cutom agreement with the AIRE team*
 
 ## Objectives of the Demonstration Project
@@ -40,12 +38,6 @@
 ### Description of User Interface 
 *(i.e. How does the client 'see' the technical result, whether a separate user interface was developed, command line script was developed, was it validated as an experiment, can the results be seen in ERP or are they integrated into work process)*
 
-## DOCKER
-Please provide your DOCKERfile here.
-
-### Docker Resources
-
-Learn more about Docker and its capabilities by referring to the [official Docker documentation](https://docs.docker.com/). 
 
 ## Custom agreement with the AIRE team
 
