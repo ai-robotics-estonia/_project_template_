@@ -1,15 +1,15 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with it's actual title.*
 
-# [Project Name]
+# [Demonstration Project title]
 
 ## Summary
 *This section is to be filled out by the project manager based on the [summary document](https://docs.google.com/spreadsheets/d/12xi2yOMm-X5PEecgyRe3WEurcSaN9A5z4DHgBacQT6M).*
 
-| Company | [Company](https://website.link) |
+| Company name | [Company](https://website.link) |
 | :--- | :--- |
-| Project Manager | [Project Manager](https://profile.link) |
-| Project Team | [Team Member 1](https://profile.link); [Team Member 2](https://profile.link); ... |
-| Challenge Tackled |  |
+| Development Team Lead Name | [First name, Surname](https://profile.link) |
+| Development Team Lead e-mail | [Team Member 1](https://profile.link) |
+| Objectives of the Demonstration Project |  |
 | Technology Used |  |
 | Lessons Learned |  |
 | Result Published |  |
