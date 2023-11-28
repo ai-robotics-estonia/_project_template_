@@ -3,7 +3,6 @@
 # [Demonstration Project title]
 
 ## Summary
-*This section is to be filled out by the project manager based on the [summary document](https://docs.google.com/spreadsheets/d/12xi2yOMm-X5PEecgyRe3WEurcSaN9A5z4DHgBacQT6M).*
 
 | Company name | [Company](https://website.link) |
 | :--- | :--- |
