@@ -14,13 +14,13 @@
 
 - *a) To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
 *OR*
-- *c) a cutom agreement with the AIRE team*
+- *c) a custom agreement with the AIRE team*
 
 ## Objectives of the Demonstration Project
 *Please provide your objectives here.*
 
 ## Activities and results of demonstration project
-*Challenge addressed (i.e. whetehr and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
+*Challenge addressed (i.e. whether and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
 -  *a)*
 
 *Data sources (which data was used for the technological solution)*
@@ -48,7 +48,7 @@
 
 ## Custom agreement with the AIRE team
 
-*If you have a unique project or specific requirements that don't fit neatly into the Docker file or description template options, we welcome custom agreements with our AIRE team. This option allows for flexibility in collaborating with us to ensure your project's needs are met effectively.*
+*If you have a unique project or specific requirements that don't fit neatly into the Docker file or description template options, we welcome custom agreements with our AIRE team. This option allows flexibility in collaborating with us to ensure your project's needs are met effectively.*
 
 *To explore this option, please contact our demonstration projects service manager via katre.eljas@taltech.ee with the subject line "Demonstration Project Custom Agreement Request - [Your Project Name]." In your email, briefly describe your project and your specific documentation or collaboration needs. Our team will promptly respond to initiate a conversation about tailoring a solution that aligns with your project goals.*
 
