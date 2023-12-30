@@ -11,7 +11,7 @@
 
 ### Each project has an alternative for documentation
 1. Fill in the [description](#description) directly in the README below *OR*;
-2. Make a [custom agreement with the AIRE team](#custom-agreement-with-the-AIRE-team).
+2. make a [custom agreement with the AIRE team](#custom-agreement-with-the-AIRE-team).
 
 # Description
 ## Objectives of the Demonstration Project
