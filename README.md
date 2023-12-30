@@ -10,8 +10,8 @@
 | Objectives of the Demonstration Project | ... |
 
 ### Each project has an alternative for documentation
-1. Fill in the [description](#description) directly in the README below *OR*
-2. Make a [custom agreement with the AIRE team](#custom-agreement-with-the-AIRE-team)
+1. Fill in the [description](#description) directly in the README below *OR*;
+2. Make a [custom agreement with the AIRE team](#custom-agreement-with-the-AIRE-team).
 
 # Description
 ## Objectives of the Demonstration Project
@@ -27,15 +27,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Data Sources
 *Please describe which data was used for the technological solution.*  
-- [Source 1]
-- [Source 2]
-- etc...
+- [Source 1],
+- [Source 2],
+- etc... .
 
 ### AI Technologies
 *Please describe and justify the use of selected AI technologies.*
-- [AI technology 1]
-- [AI technology 2]
-- etc...
+- [AI technology 1],
+- [AI technology 2],
+- etc... .
 
 ### Technological Results
 *Please describe the results of testing and validating the technological solution.*
@@ -44,9 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Technical Architecture
 *Please describe the technical architecture (e.g, presented graphically, where the technical solution integration with the existing system can also be seen).*
-- [Component 1]
-- [Component 2]
-- etc...
+- [Component 1],
+- [Component 2], 
+- etc... .
 
 ![backend-architecture](https://github.com/ai-robotics-estonia/_project_template_/assets/15941300/6d405b21-3454-4bd3-9de5-d4daad7ac5b7)
 
@@ -58,9 +58,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Future Potential of the Technical Solution
 *Please describe the potential areas for future use of the technical solution.*
-- [Use case 1]
-- [Use case 2]
-- etc...
+- [Use case 1],
+- [Use case 2],
+- etc... .
 
 ### Lessons Learned
 *Please describe the lessons learned (i.e. assessment whether the technological solution actually solved the initial challenge).*
