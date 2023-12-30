@@ -5,7 +5,7 @@
 ## Summary
 | Company name | [Company](https://website.link) |
 | :--- | :--- |
-| Development Team Lead Name | [Example Lead](https://profile.link) |
+| Development Team Lead Name | [Dr. John Smith](https://profile.link) |
 | Development Team Lead E-mail | [email@example.com](mailto:email@example.com) |
 | Objectives of the Demonstration Project | ... |
 
